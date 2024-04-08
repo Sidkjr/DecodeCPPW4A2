@@ -1,0 +1,7 @@
+int a = 10, b = 20;
+int *ptr;
+*ptr = 5;
+
+Ans:
+
+    The code snippet is wrong because the pointer doesn't point to a variable and instead only a value in passed in the next line.
